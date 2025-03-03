@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: black;
+    background: rgb(10, 10, 10);
     overflow: hidden;
   }
   canvas {
